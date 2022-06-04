@@ -7,10 +7,6 @@
 <script>
 export default {
   props:['mode'],
-  data () { return {}; },
-  provide () { return {}; },
-  computed: {},
-  methods: {}
 };
 </script>
 
